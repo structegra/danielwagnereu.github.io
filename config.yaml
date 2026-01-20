@@ -1,7 +1,7 @@
 baseURL: "https://danielwagner.at/"
 languageCode: "en-us"
 title: "Daniel Wagner"
-# copyright: "Daniel Wagner e.U."
+# copyright: "Structegra Digital Strategy  e.U."
 paginate: 5
 theme: PaperMod
 
@@ -20,8 +20,8 @@ minify:
 params:
   # env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Daniel Wagner
-  description: "Blog and Website of Daniel Wagner e.U. on information technology, software engineering, cloud, linux, volunteering at CoderDojo and personal stuff"
-  keywords: [Blog, "Daniel Wagner e.U.", "Consulting", "Training", "IT", "DevOps", "Tulln", "Vienna", "Austria"]
+  description: "Blog and Website of Daniel Wagner and Structegra Digital Strategy e.U. on information technology, software engineering, cloud, linux, volunteering at CoderDojo and personal stuff"
+  keywords: [Blog, "Daniel Wagner", "Structegra Digital Strategy e.U.", "Enterprise Architecture", "Digitalization", "IT Governance", "IT Strategy", "Compliance", "Consulting", "Training", "IT", "DevOps", "Tulln", "Vienna", "Austria"]
   author: Daniel Wagner
   # author: ["Me", "You"] # multiple authors
   images: ["/img/logo.webp", "/img/profile-image.webp"]
@@ -80,8 +80,6 @@ params:
         url: posts
       - name: projects
         url: projects
-      - name: meet
-        url: "https://outlook.office.com/bookwithme/user/487b18400a3b417c818dd6f915c29a8d@danielwagner.at?anonymous&ep=plink"
 
   # home-info mode
   homeInfoParams:
@@ -90,7 +88,7 @@ params:
 
   socialIcons:
     - name: email
-      url: "mailto:daniel@danielwagner.at"
+      url: "mailto:daniel@structegra.eu"
     - name: github
       url: "https://github.com/danielwagn3r"
     - name: gitlab

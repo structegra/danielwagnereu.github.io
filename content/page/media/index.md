@@ -41,4 +41,4 @@ weight: 50
 
 ## Anfragen
 
-I'm happy to answer your questions, just [contact]({{< relref "/" >}}) me or write to: [daniel@danielwagner.at](mailto:daniel@danielwagner.at)
+I'm happy to answer your questions, just [contact]({{< relref "/" >}}) me or write to: [daniel@structegra.eu](mailto:daniel@structegra.eu)

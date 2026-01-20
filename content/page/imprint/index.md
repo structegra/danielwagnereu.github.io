@@ -13,7 +13,7 @@ aliases:
 
 ## Media proprietor/publisher of this website
 
-Daniel Wagner e.U. \
+Structegra Digital Strategy e.U. \
 Owner: DI Mag. Daniel Wagner
 
 Bahnweg 3 Haus 1 \
@@ -21,7 +21,7 @@ Bahnweg 3 Haus 1 \
 Austria
 
 Phone [+43 677 61 62 61 12](tel:+4367761626112) \
-E-Mail [daniel@danielwagner.at](mailto:daniel@danielwagner.at)
+E-Mail [daniel@structegra.eu](mailto:daniel@structegra.eu)
 
 Legal form: Sole proprietorship \
 Place of business: Langenlebarn, Austria \
